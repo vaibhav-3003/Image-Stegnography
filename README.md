@@ -16,3 +16,5 @@ This project allows you to encode a text message into an image using steganograp
 3. Click on the "Decode Image" button to reveal the hidden message inside the image.
 
 ## Screenshots
+![Stegnography](https://user-images.githubusercontent.com/105808552/235305583-175e4450-4cd2-4c97-a3db-775f6a338976.png)
+![Stegnography (1)](https://user-images.githubusercontent.com/105808552/235305581-b38fbeda-825b-4611-a85b-eb66ecb13e91.png)
